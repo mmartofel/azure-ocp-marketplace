@@ -18,7 +18,7 @@ compute:
       type: Standard_D4s_v3
       osDisk:
         diskSizeGB: 128 
-        diskType: Standard_LRS
+        diskType: Premium_LRS
       zones: 
       - "1"
       - "2"
