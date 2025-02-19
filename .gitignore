@@ -1,5 +1,12 @@
 .vscode
-env.sh
-openshift-install
-pull-secret.txt
 config
+.ssh
+01_azure_env_real.sh
+login.txt
+pull-secret.txt
+ocp-azure
+openshift-install
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.terraform.lock.hcl
