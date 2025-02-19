@@ -13,5 +13,5 @@ mkdir ./config
 cp install-config.yaml ./config
 
 # Install Red Hat OpenShift cluster
-./openshift-install create cluster --dir ./config # --log-level debug
+./openshift-install create cluster --dir ./config --log-level debug
 
